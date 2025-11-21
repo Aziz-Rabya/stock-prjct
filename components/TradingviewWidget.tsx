@@ -1,5 +1,4 @@
 "use client";
-'use client';
 
 import React, { memo } from 'react';
 import useTradingViewWidget from "@/hooks/useTradingViewWidget";
